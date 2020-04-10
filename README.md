@@ -15,7 +15,7 @@ Health in Hands is a platform which would eradicate the problems of missing medi
 * We go through some of the tests that we do not need only because of missing reports
 
 ## Solution
-<img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg"  width="250" height="200" align="right" />
+<img src="https://github.com/VNAPNIC/Health-in-Hands/blob/master/img/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg"  width="250" height="200" align="right" />
 
 * An application/service that will help us to record our medical reports
 * An application that will help in searching the best suited doctor for our problem
@@ -33,14 +33,14 @@ Indian Medical Association is the only representative voluntary organization of 
 * Doctors and Health organizations who want to reach out patients online 
 ## Use-case Diagram
 
-![final_usecase](https://user-images.githubusercontent.com/25045759/29498397-4b8380be-85c9-11e7-912c-7be4ca988cee.png)
+![final_usecase](https://github.com/VNAPNIC/Health-in-Hands/blob/master/Final_UseCase.png)
 
 
 ## Process flow Diagram
 
-![processflow](https://user-images.githubusercontent.com/25045759/29498396-4b83365e-85c9-11e7-860c-e7dd09753a11.png)
+![processflow](https://github.com/VNAPNIC/Health-in-Hands/blob/master/Processflow.png)
 ## Class Diagram
-![classdiagram](https://user-images.githubusercontent.com/25045759/29498395-4b82c1ec-85c9-11e7-91b5-eacf484d8188.png)
+![classdiagram](https://github.com/VNAPNIC/Health-in-Hands/blob/master/Classdiagram.png)
 
 ## Activity Diagram
 ### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
