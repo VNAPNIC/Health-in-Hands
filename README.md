@@ -74,77 +74,77 @@ Indian Medical Association is the only representative voluntary organization of 
 ## Mobile-App Screens 
 ### Login Screens
 #### Initial Login screen
-![login_1](https://user-images.githubusercontent.com/25045759/29498552-f37bc65c-85cc-11e7-892e-2e5c3cc77442.png)
+![login_1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498552-f37bc65c-85cc-11e7-892e-2e5c3cc77442.png)
 #### Registration Page
-![registrationpagescreen](https://user-images.githubusercontent.com/25045759/29498554-f91abd0c-85cc-11e7-8f49-6b013eb51b8b.png)
+![registrationpagescreen](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498554-f91abd0c-85cc-11e7-8f49-6b013eb51b8b.png)
 #### Signup Page
-![pat_login](https://user-images.githubusercontent.com/25045759/29498551-f37b8f3e-85cc-11e7-8982-3e4387e15ae7.png)
+![pat_login](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498551-f37b8f3e-85cc-11e7-8982-3e4387e15ae7.png)
 
 ### Patient Screens
 #### Home screen
-![1](https://user-images.githubusercontent.com/25045759/29498520-0dcd2826-85cc-11e7-8380-717ad421aa33.png)
+![1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498520-0dcd2826-85cc-11e7-8380-717ad421aa33.png)
 #### Profile
-![3](https://user-images.githubusercontent.com/25045759/29498564-31f6b04a-85cd-11e7-83db-37ae9f1daf3b.png)
+![3](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498564-31f6b04a-85cd-11e7-83db-37ae9f1daf3b.png)
 #### Reminder
-![7](https://user-images.githubusercontent.com/25045759/29498567-3cf273a8-85cd-11e7-9e69-34c4cb0eb034.png)
+![7](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498567-3cf273a8-85cd-11e7-9e69-34c4cb0eb034.png)
 #### Book an appointment
 
-![20](https://user-images.githubusercontent.com/25045759/29498585-992de3b4-85cd-11e7-8460-4f6af38a6833.png)
+![20](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498585-992de3b4-85cd-11e7-8460-4f6af38a6833.png)
 
 #### Appointments List
-![10](https://user-images.githubusercontent.com/25045759/29498584-992547ea-85cd-11e7-831f-b1414e978fa7.png)
+![10](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498584-992547ea-85cd-11e7-831f-b1414e978fa7.png)
 
 
 #### Upload reports
-![11](https://user-images.githubusercontent.com/25045759/29498576-7488d29e-85cd-11e7-96fd-ffcbcbaf288d.png)
+![11](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498576-7488d29e-85cd-11e7-96fd-ffcbcbaf288d.png)
 
 #### Search with location
-![15 3](https://user-images.githubusercontent.com/25045759/29498595-c4384590-85cd-11e7-8504-7811f3805f35.png)
+![15 3](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498595-c4384590-85cd-11e7-8504-7811f3805f35.png)
 
 #### Search for all services
-![16](https://user-images.githubusercontent.com/25045759/29498596-c439e26a-85cd-11e7-9ecb-4c7a1bb8cf25.png)
+![16](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498596-c439e26a-85cd-11e7-9ecb-4c7a1bb8cf25.png)
 
 #### Search with speciality
-![15 4](https://user-images.githubusercontent.com/25045759/29498594-c437d6c8-85cd-11e7-8303-0170009a361b.png)
+![15 4](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498594-c437d6c8-85cd-11e7-8303-0170009a361b.png)
 
 
 #### Search on Maps
-![15 6](https://user-images.githubusercontent.com/25045759/29498570-51a75dae-85cd-11e7-9e0f-2989bdd50cf0.png)
+![15 6](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498570-51a75dae-85cd-11e7-9e0f-2989bdd50cf0.png)
 
 
 ### Doctor Screens
 #### Home screen
-![screen 1](https://user-images.githubusercontent.com/25045759/29498685-194cff34-85cf-11e7-8a45-088fca81c992.png)
+![screen 1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498685-194cff34-85cf-11e7-8a45-088fca81c992.png)
 
 #### Profile
-![docprofile](https://user-images.githubusercontent.com/25045759/29498628-7c73cff8-85ce-11e7-8c05-080b5d11e912.png)
+![docprofile](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498628-7c73cff8-85ce-11e7-8c05-080b5d11e912.png)
 
 
 #### Appointments
-![docappointment 1](https://user-images.githubusercontent.com/25045759/29498627-7c7228a6-85ce-11e7-9aab-030db2c046f1.png)
+![docappointment 1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498627-7c7228a6-85ce-11e7-9aab-030db2c046f1.png)
 
 
 #### Set Appointment Calendar Screen
-![doctorappointments](https://user-images.githubusercontent.com/25045759/29498629-7c740644-85ce-11e7-99d7-27c9ac7902be.png)
+![doctorappointments](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498629-7c740644-85ce-11e7-99d7-27c9ac7902be.png)
 
 
 ### Diagnostic Center
 #### Home Screen
-![dcscreen 1](https://user-images.githubusercontent.com/25045759/29498648-db3a6cea-85ce-11e7-8104-9f2201cf6bd9.png)
+![dcscreen 1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498648-db3a6cea-85ce-11e7-8104-9f2201cf6bd9.png)
 
 #### Profile
-![dcaboutus](https://user-images.githubusercontent.com/25045759/29498650-e7eab814-85ce-11e7-8cbb-3cdd20a00406.png)
+![dcaboutus](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498650-e7eab814-85ce-11e7-8cbb-3cdd20a00406.png)
 
 
 #### Upload reports
-![uploadreport2](https://user-images.githubusercontent.com/25045759/29498652-f3175dd2-85ce-11e7-89c3-bce9342a47f5.png)
+![uploadreport2](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498652-f3175dd2-85ce-11e7-89c3-bce9342a47f5.png)
 
 
 #### Set Appointment Calendar Screen
 
-![dcschappt](https://user-images.githubusercontent.com/25045759/29498658-ff812d78-85ce-11e7-8e93-a5fa7ac60c07.png)
+![dcschappt](https://github.com/VNAPNIC/Health-in-Hands/blob/master/mobilescreenshots/29498658-ff812d78-85ce-11e7-8e93-a5fa7ac60c07.png)
 
 ## Final Presentation
-### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/BA_Finalprojectppt.pdf"> PPT </a>
+### <a href="https://github.com/VNAPNIC/Health-in-Hands/blob/master/BA_Finalprojectppt.pdf"> PPT </a>
 
 
