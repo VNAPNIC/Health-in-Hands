@@ -57,18 +57,18 @@ Indian Medical Association is the only representative voluntary organization of 
 ## Web-Application Screens 
 ### Login Screens
 #### Registration page
-![registerscreen](https://user-images.githubusercontent.com/25045759/29498414-de3c42f6-85c9-11e7-9a5a-f11b8e37eec6.png)
+![registerscreen](https://github.com/VNAPNIC/Health-in-Hands/blob/master/webscreenshots/RegisterScreen.png)
 #### Login Screen
-![screen 1](https://user-images.githubusercontent.com/25045759/29498415-de3f554a-85c9-11e7-8040-0d1f45445f99.png)
+![screen 1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/webscreenshots/Screen%201.png)
 
 ### Patient Screens
-![pat1](https://user-images.githubusercontent.com/25045759/29498491-b1fddc3e-85cb-11e7-810b-f3388a1768c8.png)
+![pat1](https://github.com/VNAPNIC/Health-in-Hands/blob/master/webscreenshots/PAT1.png)
 
 ### Doctor Screens
-![doctorprofileview](https://user-images.githubusercontent.com/25045759/29498481-6f5d9e78-85cb-11e7-8dd7-39d3f281334b.png)
+![doctorprofileview](https://github.com/VNAPNIC/Health-in-Hands/blob/master/webscreenshots/DoctorProfileView.png)
 
 ### Diagnostic Center
-![dcprofile](https://user-images.githubusercontent.com/25045759/29498480-6f5d3c1c-85cb-11e7-80ce-7b988fd44895.png)
+![dcprofile](https://github.com/VNAPNIC/Health-in-Hands/blob/master/webscreenshots/DCProfile.png)
 
 
 ## Mobile-App Screens 
