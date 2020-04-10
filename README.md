@@ -43,7 +43,7 @@ Indian Medical Association is the only representative voluntary organization of 
 ![classdiagram](https://github.com/VNAPNIC/Health-in-Hands/blob/master/Classdiagram.png)
 
 ## Activity Diagram
-### <a href="https://github.com/Uppalapa/Business-Analytics/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
+### <a href="https://github.com/VNAPNIC/Health-in-Hands/blob/master/ActivityDaigram/README.md"> ACTIVITY DIAGRAM README</a>
 
 
 ## Future Scope
